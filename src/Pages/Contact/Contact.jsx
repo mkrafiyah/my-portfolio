@@ -29,6 +29,10 @@ const Contact = () => {
       <textarea className='border rounded-lg p-2 mb-4 ' name="message" />
       <input className='border bg-fuchsia-500 text-white mt-5 w-2/3 mx-auto rounded-lg p-2 mb-4 ' type="submit" value="Send" />
     </form>
+    <div className='my-12 text-center'>
+      <p className='text-xl font-medium'>Mobile: +971558753372</p>
+      <p className='text-xl font-medium'>Email: rafiya.mahbub@gmail.com</p>
+    </div>
         </div>
     );
 };
